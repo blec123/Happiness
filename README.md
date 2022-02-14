@@ -22,27 +22,30 @@ I asked three main questions:
 
 For each of those three questions I made a notebook:
 
-Happiness_and income.ipynb
-Happiness_and_other_job_related_matters.ipynb
-Happiness_and_politics.ipynb
+    Happiness_and income.ipynb
+
+    Happiness_and_other_job_related_matters.ipynb
+  
+    Happiness_and_politics.ipynb
+
 
 The main import and a first data sorting is done in the import_prep.py .
 
 Other files are:
 
-  ESS1-9e01_1.zip:      ESS-dataset zipped, becuse too big as csv. Has to be unzipped to work
+    ESS1-9e01_1.zip:      ESS-dataset zipped, becuse too big as csv. Has to be unzipped to work
   
-  GDPPerCapita.csv:     csv with the gdp per capita data from the world bank
+    GDPPerCapita.csv:     csv with the gdp per capita data from the world bank
   
-  Gini_coefficient.csv: csv with gini coefficient from world bank (unfortunetly did not have the time to use it anymore)
+    Gini_coefficient.csv: csv with gini coefficient from world bank (unfortunetly did not have the time to use it anymore)
   
-  Inflation.csv:        csv with inflation data (unfortunetly same here, did not have enough time to take it into account)
+    Inflation.csv:        csv with inflation data (unfortunetly same here, did not have enough time to take it into account)
   
-  U.S._Crude_Oil_First_Purchase_Price.csv: csv of crude oil prices world market
+    U.S._Crude_Oil_First_Purchase_Price.csv: csv of crude oil prices world market
   
-  income.png:           income range for first three rounds of ESS data
+    income.png:           income range for first three rounds of ESS data
   
-  codebook.html:        explanation of ESS variables
+    codebook.html:        explanation of ESS variables
   
   
 
